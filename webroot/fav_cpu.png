@@ -1,0 +1,90 @@
+<mark><figure></figure></mark>    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CPU << Don't panic</title>
+        <link rel="stylesheet" href="cpu_dp2.css">
+    </head>
+    <body>
+
+        <div class="header">
+            <h1>CPU << Don't panic</h1>
+            <h2>08.06. - 10.06.2018 in Ulm</h2>
+								<a href="index_en.html"><img src="flag_en.png" alt="UK Flag - links to translation" style="position:fixed; top:0px; right:0px;"></a>
+
+        </div>
+
+
+        <div style="overflow:auto">
+
+          <div class="menu">
+            <!-- This will scroll! -->
+            &nbsp;
+            <!--
+                <a href="#top">TOP</a>
+                <a href="#info">INFO</a>
+                <a href="#anfahrt">ANFAHRT</a>
+                <a href="#kontakt">KONTAKT</a>
+                <a href="https://tickets.127.0.0.1">PRESALE</a>
+                <a href="cpu_draft_en.html">{en}</a>
+            -->
+          </div>
+
+        <div class="main">
+
+            <div align="center">
+                <img id="logo" src="logo.jpg">
+            </div>
+               <div id="info">
+                    <div id="infrastruktur">
+                            <h2>Allgemeines</h2>
+                            Willkommen auf der Seite der ersten Chaosparty Ulm(CPU)! Die CPU ist ein kleineres Chaosevent in der Mensa der Uni Ulm für Erfas, ChaosTreffs, Hackerspaces, chaosnahe Menschen und allgemein jede humanuide Lebensform, die sich für die Veranstaltung interessiert. Wir bieten einen großen Raum zum miteinander herumsitzen und zum austauschen über alle erdenklichen Themen. Außerdem gibt es einen kleineren Workshop- und Seminarraum, in dem wir ein Vortragsprogramm organisieren. Da die hardwaretechnische Seite ab und an auf anderen Events etwas zu kurz kommt, gehen unsere Vortr&auml;ge und Workshops mehr in diese Richtung.
+<h2> Tickets </h2>
+Der Ticketverkauf wird in den n&auml;chsten Tagen starten.
+
+
+                            <h2>Verpflegung</h2>
+                            Da die Uni etwas abgelegen ist, bieten wir sowohl ein Frühstück als auch Freitags ein Abendessen und Samstags ein Mittag- und Abendessen an. Die Mahlzeiten beinhalten sowohl Fleisch als auch vegetarische und vegane Gerichte. Der genauere Essensplan wird auch noch kurz vor der Veranstaltung hier auf der Website veröffentlicht.                
+
+                            <h2>Übernachtung</h2>
+                            Auf der Veranstaltung selber gibt es leider keine Übernachtungsmöglichkeiten. 
+                            
+                            <h2>Rahmenprogramm</h2>
+                            Wir planen die Veranstaltung um circa 20 Uhr am Freitag offiziell zu eröffnen. Den Zeitplan für die Workshops und Vortr&auml;ge werden wir demn&auml;chst hier veröffentlichen. Abends sind wir gerade dabei einen musikalischen Ausklang des Abends mit chaosnahen DJs wie Couchsofa zu organisieren.
+
+                        </div>
+
+                    </div>
+
+
+                    <div id="anfahrt">
+                        <h2>Anfahrt</h2>
+                        <iframe style="width:100%; height: 300px; background-color: #000000" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.951440691947939%2C48.42137254002177%2C9.96039927005768%2C48.42441631824607&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+                        <br/><a href="https://www.openstreetmap.org/#map=18/48.42289/9.95592">View Larger Map</a>
+                        <br>
+        		<h3>Per Auto</h3>
+                        Nehmt die B10 Ausfahrt "Universit&auml;t Ulm" und fahre &uuml;ber der Berlinerring in die Albert-Einstein-Allee. Dort sind mehrere Einfahrten zu Parkpl&auml;tzen und ein Parkhaus der Universit&auml;t. Allerdings sind die meisten Pakrpl&auml;tze kostenpflichtig.       
+<h3>&Ouml;ffentlicher Nahverkehr</h3>
+Mit den Linien 3 und 5 Richtung Wissenschaftsstadt oder Sciencepark II ist es möglich vom Hauptbahnhof oder dem Ehinger Tor Zur Universit&auml;t S&uuml;d zu gelangen. 
+	</div>
+
+                    <div id="kontakt">
+                        <h2>Kontakt</h2>
+        		Bei Fragen erreicht ihr uns per Mail unter  <a href="mailto:kontakt@chaos-party-ulm.de">kontakt@chaos-party-ulm.de</a>
+        		<br>
+        		<h2>Danksagung</h2>
+        		Vielen Dank an Benni für das Logo, Die StuVe und Das Studierendenwerk der Univerist&auml;t Ulm f&uuml;r ihre Unterst&uuml;tzung.
+                    
+	</div>
+
+
+                </div>
+        </div>
+
+    </div>
+
+<div style="text-align:center;padding:10px;margin-top:7px;">frrm 2018 <a href="impressum.html">Impressum</a></div>
+
+</body>
+</html>
