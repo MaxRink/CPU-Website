@@ -1,5 +1,5 @@
-baseurl = "https://example.com/"
-languageCode = "en-us"
+baseurl = "https://chaos-party-ulm.de/"
+languageCode = "de-de"
 theme = "hugo-theme-terminal"
 paginate = 5
 
