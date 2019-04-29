@@ -29,9 +29,9 @@ Auf der Veranstaltung selbst gibt es leider keine Übernachtungsmöglichkeiten.
 {{<maps>}}
 [Große Karte](./map.html)
 
-## Per Auto
+#### Per Auto
 Nehmt die B10 Ausfahrt "Universität Ulm" und fahre über der Berlinerring in die Albert-Einstein-Allee oder den James-Franck-Ring. Die Anfahrt muss über den Berliner Ring erfolgen, die anderen Zufahrtsstraßen sind für PKW nicht freigegeben. Dort sind mehrere Einfahrten zu Parkplätzen und ein Parkhaus der Universität. Allerdings sind die meisten Pakrplätze kostenpflichtig.
-## Öffentlicher Nahverkehr
+#### Öffentlicher Nahverkehr
 Mit den Linien 3 und 5 Richtung Wissenschaftsstadt oder Sciencepark II ist es möglich vom Hauptbahnhof oder dem Ehinger Tor Zur Universität Süd zu gelangen.
 
 # Kontakt
