@@ -13,8 +13,6 @@ Willkommen auf der Seite der ersten Chaosparty Ulm (CPU)! Die CPU ist ein kleine
 
 Wir werden neben den Tickets für das gesamte Event auch noch Tagestickets anbieten, die ihr vor Ort erwerben könnt.
 
-TODO: LINK!
-
 [>>>>>>>> Event-Ticketshop von pretix <<<<<<<<<<](https://pretix.chaos-party-ulm.de/frrm/cpu19/)
 
 # Verpflegung
