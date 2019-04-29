@@ -9,7 +9,7 @@ paginate = 5
   showMenuItems = 2
   fullWidthTheme = false
   centerTheme = true
-  favicon = favicon.png
+  favicon = "favicon.png"
 
 [languages]
   [languages.en]
