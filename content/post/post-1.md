@@ -30,7 +30,10 @@ Auf der Veranstaltung selbst gibt es leider keine Übernachtungsmöglichkeiten.
 #### Per Auto
 Nehmt die B10 Ausfahrt "Universität Ulm" und fahre über der Berlinerring in die Albert-Einstein-Allee oder den James-Franck-Ring. Die Anfahrt muss über den Berliner Ring erfolgen, die anderen Zufahrtsstraßen sind für PKW nicht freigegeben. Dort sind mehrere Einfahrten zu Parkplätzen und ein Parkhaus der Universität. Allerdings sind die meisten Pakrplätze kostenpflichtig.
 #### Öffentlicher Nahverkehr
-Mit den Linien 3 und 5 Richtung Wissenschaftsstadt oder Sciencepark II ist es möglich vom Hauptbahnhof oder dem Ehinger Tor Zur Universität Süd zu gelangen.
+Mit den Linien 2, 5 oder 8 Richtung Wissenschaftsstadt oder Sciencepark II ist es möglich vom Hauptbahnhof oder dem Ehinger Tor zur Universität Süd zu gelangen. 
+Genauere Infos findet ihr hier:
+[Netzplan Ulm](https://www.swu.de/fileadmin/content/mobilitaet/karten/2019/Liniennetzplan-2019.pdf)
+[Nachtbusse Ulm](https://www.swu.de/fileadmin/content/mobilitaet/Pocketfahrplaene/SWU_PocketFahrplan_NachtBus_NachtSAM_DINA4_2019.pdf)
 
 # Kontakt
 Bei Fragen erreicht ihr uns per Mail unter [kontakt@chaos-party-ulm.de](mailto:kontakt@chaos-party-ulm.de) oder in #cpu auf hackint. 
