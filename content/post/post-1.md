@@ -14,7 +14,7 @@ Wir werden neben den Tickets für das gesamte Event auch noch Tagestickets anbie
 
 TODO: LINK!
 
-[>>>>>>>> Event-Ticketshop von pretix <<<<<<<<<<](./)
+[>>>>>>>> Event-Ticketshop von pretix <<<<<<<<<<](https://pretix.chaos-party-ulm.de/frrm/cpu19/)
 
 # Verpflegung
 Da die Uni etwas abgelegen ist, bieten wir sowohl ein Frühstück als auch Freitags ein Abendessen und Samstags ein Mittag- und Abendessen an. Die Mahlzeiten beinhalten sowohl Fleisch als auch vegetarische und vegane Gerichte. Der genauere Essensplan wird auch noch kurz vor der Veranstaltung hier auf der Website veröffentlicht.
@@ -22,37 +22,9 @@ Da die Uni etwas abgelegen ist, bieten wir sowohl ein Frühstück als auch Freit
 Auf der Veranstaltung selbst gibt es leider keine Übernachtungsmöglichkeiten.
 
 # Programm
-Wie schon zuvor angekündigt, wird es auf der CPU auch Workshops und Vorträge geben. Wir werden Workshops zu folgenden Themen anbieten: FPGA, Löten und Micro Origami. Es wird auch noch einen Vortrag zu Coreboot geben, an den sich ein Workshop anschließt. Wir werden auch noch zwei Vorträge anbieten. Einer davon trägt den Titel "Mein Zuhause, meine Wohnung, mein Hackerspace - alles unter einem Dach, oder was brauche ich wirklich". Außerdem werden wir noch ein bisschen Zeit für Ligthningtalks einplanen, das heißt, wenn du ein tolles Projekt hast, dass du kurz vorstellen möchtest, bist du herzlich eingeladen es einfach dort vorzustellen. Es wird im Laufe der nächsten Tage auch noch ein Kalender mit den genauen Vortragszeiten veröffentlicht. Neben den Vorträgen und Workshops wird es ab Samstagmorgen auch noch ein ctf geben.
 
+[Unser Programm ist nich in Arbeit. Trag doch etwas bei.](https://pretalx.chaos-party-ulm.de/cpu19/)
 
-## Freitag
-Start | Ende | Event | Person
----|---|---|---
-18.00h | | Einlass |	
-20.00h | 20.30h | Opening | Simon
-22.30h | 01.30h | Lounge | Faheus
-01.30h | 02.30h | Lounge | BoboPK
-
-## Samstag
-Start | Ende | Event | Person
----|---|---|---
-10.00h | 10.15h | CTF-Einführung | Thomas Bläsing
-11.00h | 12.00h | Was macht ein Pentester eigentlich den ganzen Tag? | Thomas Bläsing
-12.30h | 13.30h | Mein Zuhause, meine Wohnung, mein Hackerspace - alles unter einem Dach, oder was brauche ich wirklich | skyangel
-13.30h | 14.30h | Essen | 
-15.00h | 15.30h | Coreboot Vortrag | Sellerie
-15.30h | 16.00h | Coreboot Workshop | Sellerie
-16.30h | 17.30h | Micro Origami | Roland
-18.00h | 19.00h | FPGA | Simon
-19.30h | 20.30h | Lightningtalks | 
-20.30h | 22.30h | Essen | 
-22.30h | 00.30h | Lounge Couchsofa | 
-00.30h | xx.xxh | Lounge Generation Unterstrich_ (Tasmo vs. Sondala) |  
-
-## Sonntag
-Start | Ende | Event | Person
----|---|---|---
-14.00h | 14.30h | Closing | ivren
 
 # Anfahrt
 {{<maps>}}
