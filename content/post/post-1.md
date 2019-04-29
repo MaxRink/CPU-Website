@@ -10,10 +10,8 @@ showMeta = false
 Willkommen auf der Seite der ersten Chaosparty Ulm (CPU)! Die CPU ist ein kleineres Chaosevent in der Mensa der Uni Ulm für Erfas, ChaosTreffs, Hackerspaces, chaosnahe Menschen und allgemein jede humanuide Lebensform, die sich für die Veranstaltung interessiert. Wir bieten einen großen Raum zum miteinander herumsitzen und zum austauschen über alle erdenklichen Themen. Außerdem gibt es einen kleineren Workshop- und Seminarraum, in dem wir ein Vortragsprogramm organisieren. Da die hardwaretechnische Seite ab und an auf anderen Events etwas zu kurz kommt, gehen unsere Vorträge und Workshops mehr in diese Richtung.
 
 # Tickets
-
+{{<tickets>}}
 Wir werden neben den Tickets für das gesamte Event auch noch Tagestickets anbieten, die ihr vor Ort erwerben könnt.
-
-[>>>>>>>> Event-Ticketshop von pretix <<<<<<<<<<](https://pretix.chaos-party-ulm.de/frrm/cpu19/)
 
 # Verpflegung
 Da die Uni etwas abgelegen ist, bieten wir sowohl ein Frühstück als auch Freitags ein Abendessen und Samstags ein Mittag- und Abendessen an. Die Mahlzeiten beinhalten sowohl Fleisch als auch vegetarische und vegane Gerichte. Der genauere Essensplan wird auch noch kurz vor der Veranstaltung hier auf der Website veröffentlicht.
