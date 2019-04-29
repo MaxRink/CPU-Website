@@ -33,7 +33,7 @@ Nehmt die B10 Ausfahrt "Universität Ulm" und fahre über der Berlinerring in di
 Mit den Linien 3 und 5 Richtung Wissenschaftsstadt oder Sciencepark II ist es möglich vom Hauptbahnhof oder dem Ehinger Tor Zur Universität Süd zu gelangen.
 
 # Kontakt
-Bei Fragen erreicht ihr uns per Mail unter kontakt@chaos-party-ulm.de oder in #cpu auf hackint. 
+Bei Fragen erreicht ihr uns per Mail unter [kontakt@chaos-party-ulm.de](mailto:kontakt@chaos-party-ulm.de) oder in #cpu auf hackint. 
 
 # Danksagung
 Vielen Dank an Benni für das Logo, Die StuVe und Das Studierendenwerk der Univeristät Ulm für ihre Unterstützung.
