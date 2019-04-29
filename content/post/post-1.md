@@ -20,7 +20,7 @@ Auf der Veranstaltung selbst gibt es leider keine Übernachtungsmöglichkeiten.
 
 # Programm
 
-[Unser Programm ist noch in Arbeit. Trag doch etwas bei.](https://pretalx.chaos-party-ulm.de/cpu19/)
+[![We Want You](/img/WeWantYou.jpg)](https://pretalx.chaos-party-ulm.de/cpu19/)
 
 
 # Anfahrt
