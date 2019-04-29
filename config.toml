@@ -6,10 +6,10 @@ paginate = 5
 [params]
   contentTypeName = "post"
   themeColor = "orange"
-  showMenuItems = 2
+  showMenuItems = 0
   fullWidthTheme = false
   centerTheme = true
-  favicon = "favicon.png"
+  favicon = "favicon.ico"
 
 [languages]
   [languages.en]
@@ -22,6 +22,19 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
+      logoText = "Clear your Cache"
+      logoHomeLink = "/"
+
+  [languages.de]
+    title = "#CPU19"
+    subtitle = "Clear your Cache"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.de.params.logo]
       logoText = "Clear your Cache"
       logoHomeLink = "/"
 
