@@ -1,6 +1,5 @@
 .logo {
-  align-content: center;
-  justify-content: center;
+  display: flex;
   align-items: center;
   text-decoration: none;
   background: var(--accent);

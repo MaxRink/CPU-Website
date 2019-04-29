@@ -3,6 +3,7 @@ title = "Content"
 date = "2019-04-27"
 author = "jay_pee_/max r."
 showFullContent = true
+showMeta = false
 +++
 
 # Allgemeines
