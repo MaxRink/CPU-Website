@@ -5,8 +5,9 @@
   {{ $paginator := .Paginate (where .Data.Pages "Type" $contentTypeName) }}
   
   {{ range $paginator.Pages }}
-  {{ if .Params.showMeta }}
   <div class="post on-list">
+    {{ if .Params.showMeta }}
+
     <h1 class="post-title">
       <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
     <div class="post-meta">
