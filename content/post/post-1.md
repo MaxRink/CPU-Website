@@ -9,7 +9,7 @@ showMeta = false
 # Allgemeines
 Willkommen auf der Seite der  Chaosparty Ulm (CPU)! Die CPU ist ein kleineres Chaosevent in der Mensa der Uni Ulm für Erfas, ChaosTreffs, Hackerspaces, chaosnahe Menschen und allgemein jede humanoide Lebensform, die sich für die Veranstaltung interessiert.
 Sie findet dieses Jahr vom 21-23.06.2019 statt.
-Wir bieten einen großen Raum zum miteinander herumsitzen und zum austauschen über alle erdenklichen Themen. Außerdem gibt es einen Hörsaal und mehrere Seminarräume für Workshops und Vorträge. Da die hardwaretechnische Seite ab und an auf anderen Events etwas zu kurz kommt, gehen unsere Vorträge und Workshops mehr in diese Richtung.
+Wir bieten einen großen Raum zum miteinander Herumsitzen und zum Austauschen über alle erdenklichen Themen. Außerdem gibt es einen Hörsaal und mehrere Seminarräume für Workshops und Vorträge. Da die hardwaretechnische Seite ab und an auf anderen Events etwas zu kurz kommt, gehen unsere Vorträge und Workshops mehr in diese Richtung.
 
 # Tickets
 {{<tickets>}}
