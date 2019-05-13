@@ -13,7 +13,6 @@ Wir bieten einen großen Raum zum miteinander Herumsitzen und zum Austauschen ü
 
 # Tickets
 {{<tickets>}}
-Wir werden neben den Tickets für das gesamte Event auch noch Tagestickets anbieten, die ihr vor Ort erwerben könnt.
 
 # Verpflegung
 Da die Uni etwas abgelegen ist, bieten wir sowohl ein Frühstück als auch Freitags ein Abendessen und Samstags ein Mittag- und Abendessen an. Die Mahlzeiten beinhalten sowohl Fleisch als auch vegetarische und vegane Gerichte. Der genauere Essensplan wird auch noch kurz vor der Veranstaltung hier auf der Website veröffentlicht.
