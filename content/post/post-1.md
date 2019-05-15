@@ -17,8 +17,7 @@ Wir bieten einen großen Raum zum miteinander Herumsitzen und zum Austauschen ü
 # Verpflegung
 Da die Uni etwas abgelegen ist, bieten wir sowohl ein Frühstück als auch Freitags ein Abendessen und Samstags ein Mittag- und Abendessen an. Die Mahlzeiten beinhalten sowohl Fleisch als auch vegetarische und vegane Gerichte. Der genauere Essensplan wird auch noch kurz vor der Veranstaltung hier auf der Website veröffentlicht.
 # Übernachtung
-Auf der Veranstaltung selbst gibt es leider keine Übernachtungsmöglichkeiten.
-
+Es wird die Möglichkeit zu Übernachtungen auf dem Uni-Gelände geben. Diese sind jedoch relativ beschränkt. Deswegen bitten wir alle zu versuchen wo anders unter zu kommen. Sollte dies aus finanziellen Mitteln, oder anderen Gründen nicht möglich sein, könnt ihr euch im Pretix angeben, dass ihr übernachtet. Wir stellen nur einen Raum in den man sich legen kann, um Schlafmaterial muss sich jeder selber kümmern.
 # Programm
 
 [Unser Programm befindet sich noch in der Planung. Trag doch etwas dazu bei!)](https://pretalx.chaos-party-ulm.de/cpu19/)
