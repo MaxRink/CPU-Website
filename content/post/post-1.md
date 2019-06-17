@@ -12,7 +12,9 @@ Sie findet dieses Jahr vom 21-23.06.2019 statt.
 Wir bieten einen großen Raum zum miteinander Herumsitzen und zum Austauschen über alle erdenklichen Themen. Außerdem gibt es einen Hörsaal und mehrere Seminarräume für Workshops und Vorträge. Da die hardwaretechnische Seite ab und an auf anderen Events etwas zu kurz kommt, gehen unsere Vorträge und Workshops mehr in diese Richtung.
 
 # Tickets
+Es wird cor Ort auch noch Tagestickets geben, diese werden sich so grob um die 10-15€ herum orientieren.
 {{<tickets>}}
+
 
 # Verpflegung
 Da die Uni etwas abgelegen ist, bieten wir sowohl ein Frühstück als auch Freitags ein Abendessen und Samstags ein Mittag- und Abendessen an. Die Mahlzeiten beinhalten sowohl Fleisch als auch vegetarische und vegane Gerichte. Der genauere Essensplan wird auch noch kurz vor der Veranstaltung hier auf der Website veröffentlicht.
@@ -22,9 +24,9 @@ Es wird die Möglichkeit zu Übernachtungen auf dem Uni-Gelände geben. Diese si
 
 # Programm
 
-[Unser Programm befindet sich noch in der Planung. Trag doch etwas dazu bei!](https://pretalx.chaos-party-ulm.de/cpu19/)
+[Unser Programm findest du hier](https://pretalx.chaos-party-ulm.de/cpu19/schedule/)
 
-
+[Du hast noch eine spontane Vortragsidee? Dann hier lang](https://pretalx.chaos-party-ulm.de/cpu19/cfp)
 # Anfahrt
 {{<maps>}}
 [Große Karte](./map.html)
