@@ -70,4 +70,4 @@ Es wird die Möglichkeit zu Übernachtungen auf dem Uni-Gelände geben. Diese si
 Bei Fragen erreicht ihr uns per Mail unter [kontakt@chaos-party-ulm.de](mailto:kontakt@chaos-party-ulm.de) oder in #cpu auf hackint. 
 
 # Danke
-Vielen Dank an alle Helfer, Speaker, das WOC, Maxi für das VOC, Benni für das Logo und das Studierendenwerk der Univeristät Ulm.
+Vielen Dank an alle Helfer, Speaker, das WOC, Maxi für das VOC, Benni für das Logo und das Studierendenwerk der Univeristät Ulm. Ein ganz besonderer Dank geht an Chris und seine Mutter, sie sich um das Essen kümmern.
