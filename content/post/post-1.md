@@ -16,6 +16,8 @@ Wir bieten einen großen Raum zum miteinander Herumsitzen und zum Austauschen ü
 
 <span style="color:#ff9600">**[Unser Programm findest du hier](https://pretalx.chaos-party-ulm.de/cpu19/schedule/)**</span>
 
+<span style="color:#ff9600">Die Talks gibt's auch als [Stream auf media.ccc.de](https://streaming.media.ccc.de/cpu19).</span>
+
 Wenn Dir das Programm nicht genug ist und Du gern ein paar Schichten machen willst, kannst Du Dich gern im <span style="color:#ff9600">**[Engelsystem](https://engelsystem.chaos-party-ulm.de/)**</span> registrieren - momentan brauchen wir z.b. noch Support hinter der Bar tagsüber und beim Aufbau.
 
 # Verpflegung
@@ -25,13 +27,15 @@ Da die Uni etwas abgelegen ist, bieten wir sowohl ein Frühstück als auch Freit
   * Menü 1: Schupfnudeln mit Sauerkraut und Serviettenködeln
   * Menü 2: Kohlrabischnitzel mit Rotkraut, Erbsengemüse und Rahmsoße
   * Salat 1: Kartoffelsalat
-  * Salat 2: Grüner Salat  
+  * Salat 2: Grüner Salat
+    
 * Samstag
   * Menü 1: Hackbällchen, Spätzle, Erbsengemüse und Rahmsoße
   * Menü 2: Maultaschensuppe
   * Salat 1: Grüner Salat
   * Salat 2: Karottensalat
   * Salat 3: Gurkensalat
+  
 * Sonntag
   * Menü 1: Schweinebraten, Spätzle, Serviettenknödel, Rotkohl, Erbsengemüse, Bratensoße und Rahmsoße
   * Menü 2: Gemüsepfanne
@@ -65,5 +69,5 @@ Es wird die Möglichkeit zu Übernachtungen auf dem Uni-Gelände geben. Diese si
 # Kontakt
 Bei Fragen erreicht ihr uns per Mail unter [kontakt@chaos-party-ulm.de](mailto:kontakt@chaos-party-ulm.de) oder in #cpu auf hackint. 
 
-# Danksagung
-Vielen Dank an Benni für das Logo, das Studierendenwerk der Univeristät Ulm für ihre Unterstützung.
+# Danke
+Vielen Dank an alle Helfer, Speaker, das WOC, Maxi für das VOC, Benni für das Logo und das Studierendenwerk der Univeristät Ulm.
