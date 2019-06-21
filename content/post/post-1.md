@@ -23,20 +23,20 @@ Wenn Dir das Programm nicht genug ist und Du gern ein paar Schichten machen will
 # Verpflegung
 Da die Uni etwas abgelegen ist, bieten wir sowohl ein Frühstück als auch Freitags ein Abendessen und Samstags ein Mittag- und Abendessen an. 
 
-* Freitag
+* Freitag Abendessen
   * Menü 1: Schupfnudeln mit Sauerkraut und Serviettenködeln
   * Menü 2: Kohlrabischnitzel mit Rotkraut, Erbsengemüse und Rahmsoße
   * Salat 1: Kartoffelsalat
   * Salat 2: Grüner Salat
     
-* Samstag
+* Samstag Mittagessen
   * Menü 1: Hackbällchen, Spätzle, Erbsengemüse und Rahmsoße
   * Menü 2: Maultaschensuppe
   * Salat 1: Grüner Salat
   * Salat 2: Karottensalat
   * Salat 3: Gurkensalat
   
-* Sonntag
+* Samstag Abendessen
   * Menü 1: Schweinebraten, Spätzle, Serviettenknödel, Rotkohl, Erbsengemüse, Bratensoße und Rahmsoße
   * Menü 2: Gemüsepfanne
   * Salat 1: Kartoffelsalat
